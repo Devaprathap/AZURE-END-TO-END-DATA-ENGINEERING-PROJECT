@@ -10,6 +10,8 @@ This project simulates a real-world enterprise data platform.
 
 ## 🏗️ Architecture
 
+![Architecture Diagram](Architecture/Architecture.png)
+
 The solution follows a modern cloud data architecture:
 
 1. Data Ingestion using Azure Data Factory
