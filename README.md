@@ -10,7 +10,7 @@ This project simulates a real-world enterprise data platform.
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](Architecture/ARCHITECTURE.png)
+![Architecture Diagram](Architecture/ARCHITECTURE1.png)
 
 The solution follows a modern cloud data architecture:
 
