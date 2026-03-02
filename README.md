@@ -1,3 +1,10 @@
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EA0000?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+
+
 # 🚀 Azure End-to-End Data Engineering Project
 
 ## 📌 Project Overview
@@ -78,6 +85,9 @@ AZURE-END-TO-END-DATA-ENGINEERING-PROJECT/
 ### 4️⃣ Reporting Layer
 - Power BI connects to Synapse
 - Interactive dashboard created for analytics
+## 📊 Dashboard Preview
+
+![Power BI Dashboard](PowerBI-Report/dashboard-overview.png)
 
 ---
 
@@ -99,6 +109,13 @@ This project analyzes sales data across multiple countries to derive:
 - Sales trends
 
 ---
+## 🚀 Business Impact
+
+- Built scalable medallion architecture (Bronze, Silver, Gold)
+- Automated ingestion using Azure Data Factory
+- Performed data transformation using Databricks (PySpark)
+- Served curated data through Synapse
+- Delivered insights using Power BI dashboard
 
 ## 🚀 Key Learnings
 
