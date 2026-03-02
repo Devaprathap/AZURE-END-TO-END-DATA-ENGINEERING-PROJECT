@@ -85,6 +85,7 @@ AZURE-END-TO-END-DATA-ENGINEERING-PROJECT/
 ### 4️⃣ Reporting Layer
 - Power BI connects to Synapse
 - Interactive dashboard created for analytics
+
 ## 📊 Dashboard Preview
 
 ![Power BI Dashboard](PowerBI-Report/dashboard-overview.png)
